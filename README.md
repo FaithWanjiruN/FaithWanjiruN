@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter.**
 
-- I really enjoy learning languages and frameworks like React JS and React Native, as well as creating professional designs on Figma. I have well-tested skills in HTML, CSS, JavaScript plus a collaborative, creative spirit and deep understanding of responsive design and color **theory.**
+- I really enjoy learning languages and frameworks like React JS and React Native, as well as creating professional designs on Figma. I have well-tested skills in HTML, CSS, JavaScript, Django plus a collaborative, creative spirit and deep understanding of responsive design and color **theory.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
