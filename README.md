@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faith Wanjiru</h1>
 <h3 align="center">Designer and Developer</h3>
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m currently learning **Angular Framework.**
 
-- I really enjoy learning languages and frameworks like React JS and React Native, as well as creating professional designs on Figma. I have well-tested skills in HTML, CSS, JavaScript, Django plus a collaborative, creative spirit and deep understanding of responsive design and color **theory.**
+- I really enjoy learning languages and frameworks like React JS and React Native, as well as creating professional designs on Figma. I have well-tested skills in HTML, CSS, JavaScript, TypeScript and Django plus a collaborative, creative spirit and deep understanding of responsive design and color **theory.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
